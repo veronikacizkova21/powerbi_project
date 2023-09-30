@@ -1,3 +1,5 @@
+-- discord: veronikacizkova
+
 # powerbi_project
 Projekt pro kurz ENGETO - Datová akademie
 
